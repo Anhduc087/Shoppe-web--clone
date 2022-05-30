@@ -137,8 +137,8 @@ fetch(FlashSaleCourses)
                                 <span class="flash-sale__price">${course.price}</span>
                             </div>
                             <div class="flash-sale__product-sold--wrap">
-                                <span class="flash-sale__product-sold">${course.sold}</span>
-                                <span class="flash-sale__product-sold">${course.soldQuantity}</span>
+                                <span class="flash-sale__product-sold-text">${course.sold}</span>
+                                <span class="flash-sale__product-sold-quantity">${course.soldQuantity}</span>
                             </div>
                         </div>
                         `
