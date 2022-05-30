@@ -1,0 +1,207 @@
+{
+  "coursesCategory": [
+    {
+      "id": 1,
+      "img": "https://cf.shopee.vn/file/c3f3edfaa9f6dafc4825b77d8449999d_tn",
+      "nameProduct": "Máy Tính & Laptop"
+    },
+    {
+      "id": 2,
+      "img": "https://cf.shopee.vn/file/ec14dd4fc238e676e43be2a911414d4d_tn",
+      "nameProduct": "Máy Ảnh & Máy Quay Phim"
+    },
+    {
+      "img": "https://cf.shopee.vn/file/86c294aae72ca1db5f541790f7796260_tn",
+      "nameProduct": "Đồng Hồ",
+      "id": 3
+    },
+    {
+      "img": "https://cf.shopee.vn/file/74ca517e1fa74dc4d974e5d03c3139de_tn",
+      "nameProduct": "Giày Dép Nam",
+      "id": 4
+    },
+    {
+      "img": "https://cf.shopee.vn/file/7abfbfee3c4844652b4a8245e473d857_tn",
+      "nameProduct": "Thiết Bị Điện Gia Dụng",
+      "id": 5
+    },
+    {
+      "img": "https://cf.shopee.vn/file/6cb7e633f8b63757463b676bd19a50e4_tn",
+      "nameProduct": "Thể Thao & Du Lịch",
+      "id": 6
+    },
+    {
+      "img": "https://cf.shopee.vn/file/3fb459e3449905545701b418e8220334_tn",
+      "nameProduct": "Ô Tô & Xe Máy & Xe đạp",
+      "id": 7
+    },
+    {
+      "img": "https://cf.shopee.vn/file/18fd9d878ad946db2f1bf4e33760c86f_tn",
+      "nameProduct": "Balo & Túi Ví Nam",
+      "id": 8
+    },
+    {
+      "img": "https://cf.shopee.vn/file/31234a27876fb89cd522d7e3db1ba5ca_tn",
+      "nameProduct": "Điện Thoại & Phụ Kiện",
+      "id": 9
+    },
+    {
+      "img": "https://cf.shopee.vn/file/687f3967b7c2fe6a134a2c11894eea4b_tn",
+      "nameProduct": "Thời Trang Nam",
+      "id": 10
+    },
+    {
+      "img": "https://cf.shopee.vn/file/75ea42f9eca124e9cb3cde744c060e4d_tn",
+      "nameProduct": "Thời Trang Nữ",
+      "id": 11
+    },
+    {
+      "img": "https://cf.shopee.vn/file/687f3967b7c2fe6a134a2c11894eea4b_tn",
+      "nameProduct": "Thời Trang Nam",
+      "id": 12
+    },
+    {
+      "img": "https://cf.shopee.vn/file/75ea42f9eca124e9cb3cde744c060e4d_tn",
+      "nameProduct": "Thời Trang Nữ",
+      "id": 13
+    },
+    {
+      "img": "https://cf.shopee.vn/file/687f3967b7c2fe6a134a2c11894eea4b_tn",
+      "nameProduct": "Thời Trang Nam",
+      "id": 14
+    },
+    {
+      "img": "https://cf.shopee.vn/file/75ea42f9eca124e9cb3cde744c060e4d_tn",
+      "nameProduct": "Thời Trang Nữ",
+      "id": 15
+    },
+    {
+      "id": 16,
+      "img": "https://cf.shopee.vn/file/c3f3edfaa9f6dafc4825b77d8449999d_tn",
+      "nameProduct": "Máy Tính & Laptop"
+    },
+    {
+      "id": 17,
+      "img": "https://cf.shopee.vn/file/ec14dd4fc238e676e43be2a911414d4d_tn",
+      "nameProduct": "Máy Ảnh & Máy Quay Phim"
+    },
+    {
+      "img": "https://cf.shopee.vn/file/86c294aae72ca1db5f541790f7796260_tn",
+      "nameProduct": "Đồng Hồ",
+      "id": 18
+    },
+    {
+      "img": "https://cf.shopee.vn/file/74ca517e1fa74dc4d974e5d03c3139de_tn",
+      "nameProduct": "Giày Dép Nam",
+      "id": 19
+    },
+    {
+      "img": "https://cf.shopee.vn/file/7abfbfee3c4844652b4a8245e473d857_tn",
+      "nameProduct": "Thiết Bị Điện Gia Dụng",
+      "id": 20
+    },
+    {
+      "img": "https://cf.shopee.vn/file/6cb7e633f8b63757463b676bd19a50e4_tn",
+      "nameProduct": "Thể Thao & Du Lịch",
+      "id": 21
+    },
+    {
+      "img": "https://cf.shopee.vn/file/3fb459e3449905545701b418e8220334_tn",
+      "nameProduct": "Ô Tô & Xe Máy & Xe đạp",
+      "id": 22
+    },
+    {
+      "img": "https://cf.shopee.vn/file/18fd9d878ad946db2f1bf4e33760c86f_tn",
+      "nameProduct": "Balo & Túi Ví Nam",
+      "id": 23
+    },
+    {
+      "img": "https://cf.shopee.vn/file/31234a27876fb89cd522d7e3db1ba5ca_tn",
+      "nameProduct": "Điện Thoại & Phụ Kiện",
+      "id": 24
+    }
+  ],
+  
+  "FlashSaleCourses":[
+    {
+      "id":1,
+      "img":"https://cf.shopee.vn/file/1882827ffbcd4979b2ca101fc77a4b57_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    },
+    {
+      "id":2,
+      "img":"https://cf.shopee.vn/file/fb3c794bed155818b1d0bae50cef09f0_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    },
+    {
+      "id":3,
+      "img":"https://cf.shopee.vn/file/29f681928a85c48dcb27f1c3ee6d710a_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    },
+    {
+      "id":4,
+      "img":"https://cf.shopee.vn/file/29f681928a85c48dcb27f1c3ee6d710a_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    },
+    {
+      "id":5,
+      "img":"https://cf.shopee.vn/file/29f681928a85c48dcb27f1c3ee6d710a_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    },
+    {
+      "id":6,
+      "img":"https://cf.shopee.vn/file/29f681928a85c48dcb27f1c3ee6d710a_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    },
+    {
+      "id":7,
+      "img":"https://cf.shopee.vn/file/29f681928a85c48dcb27f1c3ee6d710a_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    },
+    {
+      "id":1,
+      "img":"https://cf.shopee.vn/file/29f681928a85c48dcb27f1c3ee6d710a_tn",
+      "percent":"11%",
+      "notePercent":"GIẢM",
+      "price":352000,
+      "currency":"₫ ",
+      "sold":"Đã bán",
+      "soldQuantity":0
+    }
+  ]
+}
