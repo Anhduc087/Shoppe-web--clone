@@ -1,0 +1,82 @@
+[1mdiff --git a/assets/css/main.css b/assets/css/main.css[m
+[1mindex e23152d..70772d7 100644[m
+[1m--- a/assets/css/main.css[m
+[1m+++ b/assets/css/main.css[m
+[36m@@ -1080,17 +1080,11 @@[m
+     display: flex;[m
+     [m
+ }[m
+[31m-.shoppe-flash-sale__list-wrap{[m
+[31m-    overflow: hidden;[m
+[31m-}[m
+[31m-[m
+[31m-[m
+ .shoppe-flash-sale__list-item{[m
+     width: 200px;[m
+     height: 240px;[m
+     background-color: var(--white-color);[m
+     position: relative;[m
+[31m-    border: 1px solid #f3f3f3;[m
+ }[m
+ .flash-sale__product{[m
+     padding: 8px 16px;[m
+[36m@@ -1150,30 +1144,5 @@[m
+     font-weight: 500;[m
+ }[m
+ .flash-sale__product-sold--wrap{[m
+[31m-    width: 150px;[m
+[31m-    display: flex;[m
+[31m-    justify-content: center;[m
+[31m-    margin: auto;[m
+     text-align: center;[m
+[31m-}[m
+[31m-.flash-sale__product-sold--wrap{[m
+[31m-    padding: 2px 32px ;[m
+[31m-    background-color: var(--primary-color);[m
+[31m-    border-radius: 10px;[m
+[31m-}[m
+[31m-.flash-sale__product-sold-text{[m
+[31m-    color: var(--white-color);[m
+[31m-    font-size: 1.4rem;[m
+[31m-    padding: 0 8px;[m
+[31m-    font-weight: 400;[m
+[31m-}[m
+[31m-.flash-sale__product-sold-quantity{[m
+[31m-    font-size: 1.4rem;[m
+[31m-    color: var(--white-color);[m
+[31m-    font-weight: 400;[m
+[31m-}[m
+[31m-.shoppe-flash-sale__list-item:hover{[m
+[31m-    z-index: 1;[m
+[31m-    transform: translateY(-2px);[m
+[31m-    box-shadow: 0 0 10px #ccc;[m
+[31m-}[m
+[32m+[m[32m}[m
+\ No newline at end of file[m
+[1mdiff --git a/assets/js/app.js b/assets/js/app.js[m
+[1mindex d46efa8..b1331eb 100644[m
+[1m--- a/assets/js/app.js[m
+[1m+++ b/assets/js/app.js[m
+[36m@@ -137,8 +137,8 @@[m [mfetch(FlashSaleCourses)[m
+                                 <span class="flash-sale__price">${course.price}</span>[m
+                             </div>[m
+                             <div class="flash-sale__product-sold--wrap">[m
+[31m-                                <span class="flash-sale__product-sold-text">${course.sold}</span>[m
+[31m-                                <span class="flash-sale__product-sold-quantity">${course.soldQuantity}</span>[m
+[32m+[m[32m                                <span class="flash-sale__product-sold">${course.sold}</span>[m
+[32m+[m[32m                                <span class="flash-sale__product-sold">${course.soldQuantity}</span>[m
+                             </div>[m
+                         </div>[m
+                         `[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex ae4c467..af5ec03 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -438,7 +438,6 @@[m
+                             </a>[m
+                         </header>[m
+                         <div class="shoppe-flash-sale__group">[m
+[31m-                            [m
+                             <div class="shoppe-flash-sale__list-wrap">[m
+                                 <div class="shoppe-flash-sale__list">[m
+ [m
