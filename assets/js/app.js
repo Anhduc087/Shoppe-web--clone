@@ -76,6 +76,17 @@ controlBannerLeftElement.addEventListener('click',()=>{
         counter=1;
     }
 })
+
+
+var hommMallBannerCounter =11 ;
+setInterval(function(){
+    document.getElementById('home-mall_radio' + hommMallBannerCounter).checked=true;
+    hommMallBannerCounter++;
+    if(hommMallBannerCounter>14)
+    {
+        hommMallBannerCounter=11;
+    }
+},5000);
 //  js for render rest api courses category 
 var coursesCatelogy='  http://localhost:3000/coursesCategory';
 fetch(coursesCatelogy)
